@@ -161,5 +161,6 @@ int main() {
 			<< endl;
 	cout << "Low Stock (threshold: " << threshold << "):"<<name2 << endl;
 
+	delete[] prodArray;
 	return 0;
 }
