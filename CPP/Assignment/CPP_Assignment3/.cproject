@@ -40,11 +40,11 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.427537569.1968503553" name="GameAssetMangerPartBshared_ptr.cpp" rcbsApplicability="disable" resourcePath="src/GameAssetMangerPartBshared_ptr.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1701267090.1377981935">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1701267090.1377981935" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1701267090"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.427537569.724670640" name="LogBufferWithProperCopySemantics.cpp" rcbsApplicability="disable" resourcePath="src/LogBufferWithProperCopySemantics.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1701267090.295559805">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1701267090.295559805" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1701267090"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="GameAssetMangerPartBshared_ptr.cpp|GameAssetMangerPartAunique_ptr.cpp|TypeAliasesForReadability.cpp|NetworkRequestDispatcher.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="LogBufferWithProperCopySemantics.cpp|GameAssetManagerPartCWeak_ptr.cpp|GameAssetMangerPartBshared_ptr.cpp|GameAssetMangerPartAunique_ptr.cpp|TypeAliasesForReadability.cpp|NetworkRequestDispatcher.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
