@@ -40,11 +40,12 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1415941604.605091639" name="SensorRecalibration.cpp" rcbsApplicability="disable" resourcePath="src/SensorRecalibration.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1868789571.13497787">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1868789571.13497787" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1868789571"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1415941604.39152126" name="sensor_monitor.exe" rcbsApplicability="disable" resourcePath="src/sensor_monitor.exe" toolsToInvoke=""/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1415941604.569399426" name="HRPayrollSystem.cpp" rcbsApplicability="disable" resourcePath="src/HRPayrollSystem.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1868789571.2110876655">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1868789571.2110876655" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1868789571"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="SensorRecalibration.cpp|sensor_monitor.cpp|BuildingSensorBuild.cpp|SensorLogBuffer.cpp|IotSernsioDashboard.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="HRPayrollSystem.cpp|DronNavigationUtilities.cpp|CalibrationPackerParser.cpp|HardwareRegisterAccess.cpp|sensor_monitor.exe|SignalProcessingPipeling.cpp|SensorRecalibration.cpp|sensor_monitor.cpp|BuildingSensorBuild.cpp|SensorLogBuffer.cpp|IotSernsioDashboard.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -116,6 +117,13 @@
 		</scannerConfigBuildInfo>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
-	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Debug">
+			<resource resourceType="PROJECT" workspacePath="/CPP_Assignment1"/>
+		</configuration>
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/CPP_Assignment1"/>
+		</configuration>
+	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>
